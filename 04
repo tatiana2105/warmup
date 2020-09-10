@@ -1,0 +1,1 @@
+zsh: PROMPT="%B[%F{green}%n%f@%F{blue}%~%f:%#]%b "

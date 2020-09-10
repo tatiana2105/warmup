@@ -1,0 +1,2 @@
+commande avec parametre long et une valeur : ls -p 14
+commande avec un parametre court ls --a=14
