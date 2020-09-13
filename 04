@@ -1,1 +1,1 @@
-zsh: PROMPT="%B[%F{green}%n%f@%F{blue}%~%f:%#]%b "
+Un interface c'est l'ensemble d'equipement dont a besoin un systeme pour pouvoir fonctionner

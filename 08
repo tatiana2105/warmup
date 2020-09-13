@@ -1,2 +1,14 @@
-commande avec parametre long et une valeur : ls -p 14
-commande avec un parametre court ls --a=14
+bash [tatiana@HP-EliteBook-Folio-9480m ~]$
+tatiana: nom de l'utilisateur connecte
+@:separateur
+HP-EliteBook-Folio-9480m: nom de la machine 
+~: dossier ou se situe l'utilisateur 
+$:type d'utilisateur connecte
+
+zsh [tatiana@~:%]:
+tatiana: nom de l'utilisateur connecte
+@: separateur
+~: dossier dans lequel est situe l'utilisateur 
+%: type d'utilisateur connecte
+
+sh $ 

@@ -1,10 +1,2 @@
-ctrl+c= copier du texte ou un element
-ctrl+v= coller du texte ou un element 
-ctrl+x= couper du texte ou un element
-ctrl+z= annuler la derniere action
-ctrl+a= selectionner tout
-alt+f2= ouvrir la fenetre de commande rapide
-ctrl +alt+suppr= se deconnecter de la section en cours
-alt+f4= fermer la fenetre active
-alt+espace= activer le menu fenetre
-ctrl+f= rechercher dans une page 
+Commande avec parametre long:  ls -al
+Commande avec parametre court: ls -a

@@ -1,2 +1,3 @@
-terminator: ctrl+alt+t 
-terminal emulator: ctrl+alt+t (il faut configurer le terminal par defaut que l'on souhaite utiliser)
+Un terminal c'est un ensemble compose du clavier et de l'ecran
+Shell est un programme qui recoit et interprete les commandes tapees au clavier 
+Emulateur de terminal c'est un programme qui simule un vrai terminal
